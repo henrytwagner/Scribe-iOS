@@ -17,9 +17,9 @@ disabled_rules: # rule identifiers to exclude from running
 #    error: 0  
 #  max_length: 
 #    warning: 40
-#    error: 42
+#    error: 41
 #
 #line_length:
-#  warning:45
+#  warning:46
 
 
